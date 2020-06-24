@@ -1,6 +1,4 @@
-tags:
-  - puts
-  - tictactoe
-languages:
-  - ruby
+puts "Welcome to Tic Tac Toe!"
+ruby welcome.rb
+learn submit
   
